@@ -14,7 +14,7 @@ export default function App() {
       <h1>Counter App</h1>
       <h3>Count: {Count}</h3>
       <button onClick={increment}>Increment</button>
-      <button onClick={decrement}>decrement</button>
+      <button onClick={decrement}>Decrement</button>
     </div>
   );
 }
